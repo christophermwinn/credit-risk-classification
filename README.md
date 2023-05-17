@@ -5,7 +5,7 @@ Supervised Learning Challenge
 
 The purpose of this analysis was to create a model based on loan risk.
 
-* Dataset of historicl lending activity from a peer to peer lending services company
+* Dataset of historical lending activity from a peer to peer lending services company
 * Goal to create a model that identifies the creditworthiness of borrowers
 * Loan status was used as the dependent variable (y value)
 * Data was split into training and testing sets
